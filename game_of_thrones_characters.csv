@@ -1,7 +1,7 @@
 
 ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 2,https://anapioficeandfire.com/api/characters/2,Walder,Male,,,,,
-12,https://anapioficeandfire.com/api/characters/12,Balon Greyjoy,Male,,,"299 AC, at Pyke",https://anapioficeandfire.com/api/characters/836,
+12,https://anapioficeandfire.com/api/characters/12,Balon Greyjoy,Male,,,"299 AC, at Pyke",836,
 13,https://anapioficeandfire.com/api/characters/13,Chayle,Male,,,"In 299 AC, at Winterfell",,
 14,https://anapioficeandfire.com/api/characters/14,Gillam,Male,,,,,
 15,https://anapioficeandfire.com/api/characters/15,High Septon,Male,,,,,
@@ -27,15 +27,15 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 35,https://anapioficeandfire.com/api/characters/35,Aegon Blackfyre,Male,In 184 AC,Valyrian,"In 196 AC, at Redgrass Field",,
 36,https://anapioficeandfire.com/api/characters/36,Aegon Frey,Male,In 249 AC (roughly),,"In 299 AC, at the Twins",,
 37,https://anapioficeandfire.com/api/characters/37,Aegon Frey,Male,In or between 253 AC and 272 AC,,,,
-38,https://anapioficeandfire.com/api/characters/38,Aegon I,Male,"27 BC, at Dragonstone",,"37 AC, at Dragonstone",https://anapioficeandfire.com/api/characters/59,https://anapioficeandfire.com/api/characters/1070
-39,https://anapioficeandfire.com/api/characters/39,Aegon II,Male,"107 AC, at King's Landing",,"131 AC, at King's Landing",https://anapioficeandfire.com/api/characters/1076,https://anapioficeandfire.com/api/characters/76
-40,https://anapioficeandfire.com/api/characters/40,Aegon III,Male,"120 AC, at Dragonstone",Valyrian,"157 AC, at King's Landing",https://anapioficeandfire.com/api/characters/269,https://anapioficeandfire.com/api/characters/874
+38,https://anapioficeandfire.com/api/characters/38,Aegon I,Male,"27 BC, at Dragonstone",,"37 AC, at Dragonstone",59,1070
+39,https://anapioficeandfire.com/api/characters/39,Aegon II,Male,"107 AC, at King's Landing",,"131 AC, at King's Landing",1076,76
+40,https://anapioficeandfire.com/api/characters/40,Aegon III,Male,"120 AC, at Dragonstone",Valyrian,"157 AC, at King's Landing",269,874
 41,https://anapioficeandfire.com/api/characters/41,Aegon IV,Male,"135 AC, at King's Landing",,"184 AC, at King's Landing",,
 42,https://anapioficeandfire.com/api/characters/42,Aegon Targaryen,Male,"In 281 AC or 282 AC, at Dragonstone",Valyrian,"In 283 AC (Supposedly), at King's Landing",,
 43,https://anapioficeandfire.com/api/characters/43,Aegon Targaryen,Male,In 26 AC,Valyrian,"In 43 AC, at Gods Eye",,
 44,https://anapioficeandfire.com/api/characters/44,Aegon Targaryen,Male,,Valyrian,,,
 45,https://anapioficeandfire.com/api/characters/45,Aegon Targaryen,Male,In or between 50 AC and 59 AC,Valyrian,,,
-46,https://anapioficeandfire.com/api/characters/46,Aegon V,Male,"200 AC, at King's Landing",,"259 AC, at Summerhall",https://anapioficeandfire.com/api/characters/695,https://anapioficeandfire.com/api/characters/334
+46,https://anapioficeandfire.com/api/characters/46,Aegon V,Male,"200 AC, at King's Landing",,"259 AC, at Summerhall",695,334
 47,https://anapioficeandfire.com/api/characters/47,Aegor Rivers,Male,In 172 AC,,"In 241 AC, at the Disputed Lands",,
 48,https://anapioficeandfire.com/api/characters/48,Aelinor Penrose,Female,,Valyrian,,,
 49,https://anapioficeandfire.com/api/characters/49,Aemma Arryn,Female,In 82 AC,,In 105 AC,,
@@ -46,12 +46,12 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 54,https://anapioficeandfire.com/api/characters/54,Aemon Targaryen,Male,"In 198 AC, at King's Landing",Valyrian,"In 300 AC, at the Cinnamon Wind, off the coast of Dorne, at the Summer Sea",,
 55,https://anapioficeandfire.com/api/characters/55,Aemond Targaryen,Male,In 110 AC,Valyrian,"In 130 AC, at the Gods Eye",,
 56,https://anapioficeandfire.com/api/characters/56,Aenys Frey,Male,In or between 240 AC and 247 AC,,"In 300 AC, at Near Winterfell",,
-57,https://anapioficeandfire.com/api/characters/57,Aenys I,Male,"7 AC, at Dragonstone",,"42 AC, at Dragonstone",https://anapioficeandfire.com/api/characters/38,https://anapioficeandfire.com/api/characters/1874
+57,https://anapioficeandfire.com/api/characters/57,Aenys I,Male,"7 AC, at Dragonstone",,"42 AC, at Dragonstone",38,1874
 58,https://anapioficeandfire.com/api/characters/58,Aerion Targaryen,Male,In or between 191 AC and 194 AC,Valyrian,In 232 AC,,
 59,https://anapioficeandfire.com/api/characters/59,Aerion Targaryen,Male,At Dragonstone,Valyrian,At Dragonstone,,
 60,https://anapioficeandfire.com/api/characters/60,Aeron Greyjoy,Male,"In or between 269 AC and 273 AC, at Pyke",Ironborn,,,
-61,https://anapioficeandfire.com/api/characters/61,Aerys I,Male,"or between 172 AC and 176 AC, at King's Landing",,221 AC,https://anapioficeandfire.com/api/characters/274,https://anapioficeandfire.com/api/characters/709
-62,https://anapioficeandfire.com/api/characters/62,Aerys II,Male,"244 AC, at King's Landing",,"283 AC, at the Red Keep in King's Landing",https://anapioficeandfire.com/api/characters/527,https://anapioficeandfire.com/api/characters/971
+61,https://anapioficeandfire.com/api/characters/61,Aerys I,Male,"or between 172 AC and 176 AC, at King's Landing",,221 AC,274,709
+62,https://anapioficeandfire.com/api/characters/62,Aerys II,Male,"244 AC, at King's Landing",,"283 AC, at the Red Keep in King's Landing",527,971
 63,https://anapioficeandfire.com/api/characters/63,Aglantine,Female,,,,,
 64,https://anapioficeandfire.com/api/characters/64,Aladale Wynch,Male,,Ironborn,"In 300 AC, at Bridge of Skulls",,
 65,https://anapioficeandfire.com/api/characters/65,Alan,Male,In Age of Heroes,,,,
@@ -94,13 +94,13 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 102,https://anapioficeandfire.com/api/characters/102,Alysanne Hightower,Female,,,,,
 103,https://anapioficeandfire.com/api/characters/103,Alysanne Lefford,Female,,,,,
 104,https://anapioficeandfire.com/api/characters/104,Alysanne Osgrey,Female,In 188 AC or 189 AC,,"In 209 AC, at King's Landing",,
-105,https://anapioficeandfire.com/api/characters/105,Alysanne Targaryen,Female,36 AC,,99 AC or 100 AC,https://anapioficeandfire.com/api/characters/57,https://anapioficeandfire.com/api/characters/110
+105,https://anapioficeandfire.com/api/characters/105,Alysanne Targaryen,Female,36 AC,,99 AC or 100 AC,57,110
 106,https://anapioficeandfire.com/api/characters/106,Alysanne Tarth,Female,,,,,
 107,https://anapioficeandfire.com/api/characters/107,Alyssa Arryn,Female,,,,,
 108,https://anapioficeandfire.com/api/characters/108,Alyssa Blackwood,Female,In 253 AC or before,,In or between 269 AC and 278 AC,,
 109,https://anapioficeandfire.com/api/characters/109,Alyssa Targaryen,Female,In or between 51 AC and 60 AC,Valyrian,,,
 110,https://anapioficeandfire.com/api/characters/110,Alyssa Velaryon,Female,In 7 AC,Valyrian,,,
-111,https://anapioficeandfire.com/api/characters/111,Alyx Frey,Female,In 282 AC,,,https://anapioficeandfire.com/api/characters/1004,https://anapioficeandfire.com/api/characters/1217
+111,https://anapioficeandfire.com/api/characters/111,Alyx Frey,Female,In 282 AC,,,1004,1217
 112,https://anapioficeandfire.com/api/characters/112,Amarei Crakehall,Female,In 245 AC or before,,In 264 AC,,
 113,https://anapioficeandfire.com/api/characters/113,Ambrose Butterwell,Male,In 160 AC or 161 AC,,,,
 114,https://anapioficeandfire.com/api/characters/114,Amerei Frey,Female,In 282 AC,,,,
@@ -134,7 +134,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 142,https://anapioficeandfire.com/api/characters/142,Arthur Dayne,Male,,,"In 283 AC, at the Tower of Joy",,
 143,https://anapioficeandfire.com/api/characters/143,Artos Stark,Male,,Northmen,,,
 144,https://anapioficeandfire.com/api/characters/144,Artys I Arryn,Male,", at Giant's Lance",Andal,,,
-145,https://anapioficeandfire.com/api/characters/145,Arwood Frey,Male,In or between 263 AC and 281 AC,,,https://anapioficeandfire.com/api/characters/501,https://anapioficeandfire.com/api/characters/173
+145,https://anapioficeandfire.com/api/characters/145,Arwood Frey,Male,In or between 263 AC and 281 AC,,,501,173
 146,https://anapioficeandfire.com/api/characters/146,Arwyn Frey,Female,In 285 AC,,,,
 147,https://anapioficeandfire.com/api/characters/147,Arwyn Oakheart,Female,,,,,
 148,https://anapioficeandfire.com/api/characters/148,Arya Stark,Female,"In 289 AC, at Winterfell",Northmen,,,
@@ -149,7 +149,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 157,https://anapioficeandfire.com/api/characters/157,Baelon Targaryen,Male,In or between 53 AC and 64 AC,Valyrian,In 101 AC,,
 158,https://anapioficeandfire.com/api/characters/158,Baelor Blacktyde,Male,,Ironborn,"In 300 AC, at Old Wyk",,
 159,https://anapioficeandfire.com/api/characters/159,Baelor Hightower,Male,At Oldtown,,,,
-160,https://anapioficeandfire.com/api/characters/160,Baelor I,Male,"144 AC, at King's Landing",,"171 AC, at King's Landing",https://anapioficeandfire.com/api/characters/40,https://anapioficeandfire.com/api/characters/1302
+160,https://anapioficeandfire.com/api/characters/160,Baelor I,Male,"144 AC, at King's Landing",,"171 AC, at King's Landing",40,1302
 161,https://anapioficeandfire.com/api/characters/161,Baelor Targaryen,Male,In 170 AC,,"In 209 AC, at Ashford",,
 162,https://anapioficeandfire.com/api/characters/162,Balman Byrch,Male,,,"In 300 AC, at Stokeworth",,
 163,https://anapioficeandfire.com/api/characters/163,Balon Botley,Male,,Ironborn,,,
@@ -200,7 +200,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 208,https://anapioficeandfire.com/api/characters/208,Brandon Stark,Male,"In 290 AC, at Winterfell",Northmen,,,
 209,https://anapioficeandfire.com/api/characters/209,Brandon Stark,Male,,First Men,,,
 210,https://anapioficeandfire.com/api/characters/210,Brandon Stark,Male,,Northmen,,,
-211,https://anapioficeandfire.com/api/characters/211,Brandon Stark,Male,,Northmen,,https://anapioficeandfire.com/api/characters/213,
+211,https://anapioficeandfire.com/api/characters/211,Brandon Stark,Male,,Northmen,,213,
 212,https://anapioficeandfire.com/api/characters/212,Brandon Stark,Male,,Northmen,,,
 213,https://anapioficeandfire.com/api/characters/213,Brandon Stark,Male,,Northmen,,,
 214,https://anapioficeandfire.com/api/characters/214,Brandon Tallhart,Male,In 284 AC or 285 AC,Northmen,,,
@@ -259,11 +259,11 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 267,https://anapioficeandfire.com/api/characters/267,Daemon Blackfyre,Male,"In 170 AC, at King's Landing",Valyrian,"In 196 AC, at Redgrass Field",,
 268,https://anapioficeandfire.com/api/characters/268,Daemon II Blackfyre,Male,In 188 AC or 189 AC,,In or between 211 AC and 219 AC,,
 269,https://anapioficeandfire.com/api/characters/269,Daemon Targaryen,Male,In 81 AC,Valyrian,"In 130 AC, at the Gods Eye",,
-270,https://anapioficeandfire.com/api/characters/270,Daena Targaryen,Female,"In 145 AC, at King's Landing",Valyrian,,https://anapioficeandfire.com/api/characters/40,https://anapioficeandfire.com/api/characters/1302
+270,https://anapioficeandfire.com/api/characters/270,Daena Targaryen,Female,"In 145 AC, at King's Landing",Valyrian,,40,1302
 271,https://anapioficeandfire.com/api/characters/271,Daenerys Targaryen,Female,In 172 AC,,,,
 272,https://anapioficeandfire.com/api/characters/272,Daenora Targaryen,Female,,Valyrian,,,
-273,https://anapioficeandfire.com/api/characters/273,Daeron I,Male,"143 AC, at King's Landing",,"161 AC, at Dorne",https://anapioficeandfire.com/api/characters/40,https://anapioficeandfire.com/api/characters/1302
-274,https://anapioficeandfire.com/api/characters/274,Daeron II,Male,"153 AC, at King's Landing",,"209 AC, at King's Landing",https://anapioficeandfire.com/api/characters/41,https://anapioficeandfire.com/api/characters/779
+273,https://anapioficeandfire.com/api/characters/273,Daeron I,Male,"143 AC, at King's Landing",,"161 AC, at Dorne",40,1302
+274,https://anapioficeandfire.com/api/characters/274,Daeron II,Male,"153 AC, at King's Landing",,"209 AC, at King's Landing",41,779
 275,https://anapioficeandfire.com/api/characters/275,Daeron Targaryen,Male,In 114 AC,,"In 130 AC, at Tumbleton",,
 276,https://anapioficeandfire.com/api/characters/276,Daeron Targaryen,Male,In 190 AC or 191 AC,,In or between 221 AC and 233 AC,,
 277,https://anapioficeandfire.com/api/characters/277,Daeron Vaith,Male,,Dornish,,,
@@ -374,7 +374,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 382,https://anapioficeandfire.com/api/characters/382,Ermesande Hayford,Female,In 298 AC,,,,
 383,https://anapioficeandfire.com/api/characters/383,Erren Florent,Male,,,,,
 384,https://anapioficeandfire.com/api/characters/384,Ethan Glover,Male,,Northmen,"In 283 AC, at the Tower of Joy",,
-385,https://anapioficeandfire.com/api/characters/385,Euron Greyjoy,Male,or before 267 AC,Ironborn,,https://anapioficeandfire.com/api/characters/836,
+385,https://anapioficeandfire.com/api/characters/385,Euron Greyjoy,Male,or before 267 AC,Ironborn,,836,
 386,https://anapioficeandfire.com/api/characters/386,Eustace,Male,,,,,
 387,https://anapioficeandfire.com/api/characters/387,Eustace Hunter,Male,,,,,
 388,https://anapioficeandfire.com/api/characters/388,Eustace Osgrey,Male,At Standfast,,,,
@@ -399,7 +399,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 407,https://anapioficeandfire.com/api/characters/407,Garth Hightower,Male,At Oldtown,,,,
 408,https://anapioficeandfire.com/api/characters/408,Garth Tyrell,Male,,,,,
 409,https://anapioficeandfire.com/api/characters/409,Garth XII Gardener,Male,,,,,
-410,https://anapioficeandfire.com/api/characters/410,Garth the Gardener,Male,,First Men,,https://anapioficeandfire.com/api/characters/1411,
+410,https://anapioficeandfire.com/api/characters/410,Garth the Gardener,Male,,First Men,,1411,
 411,https://anapioficeandfire.com/api/characters/411,Gawen Glover,Male,In 295 AC or 296 AC,Northmen,,,
 412,https://anapioficeandfire.com/api/characters/412,Gawen Swann,Male,"In 152 AC or before, at Stonehelm",,,,
 413,https://anapioficeandfire.com/api/characters/413,Gawen Westerling,Male,,Westerman,,,
@@ -449,7 +449,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 457,https://anapioficeandfire.com/api/characters/457,Gyles III Gardener,Male,,,,,
 458,https://anapioficeandfire.com/api/characters/458,Gyles Rosby,Male,,,"In 300 AC, at King's Landing",,
 459,https://anapioficeandfire.com/api/characters/459,Gysella Goodbrother,Female,,Ironborn,,,
-460,https://anapioficeandfire.com/api/characters/460,Halleck Hoare,Male,,,,https://anapioficeandfire.com/api/characters/484,
+460,https://anapioficeandfire.com/api/characters/460,Halleck Hoare,Male,,,,484,
 461,https://anapioficeandfire.com/api/characters/461,Hallis Mollen,Male,,Northmen,,,
 462,https://anapioficeandfire.com/api/characters/462,Halmon Paege,Male,,,,,
 463,https://anapioficeandfire.com/api/characters/463,Halys Hornwood,Male,,Northmen,"In 298 AC, at the Green Fork",,
@@ -464,7 +464,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 472,https://anapioficeandfire.com/api/characters/472,Harrag Hoare,Male,,Ironborn,,,
 473,https://anapioficeandfire.com/api/characters/473,Harras Harlaw,Male,,Ironborn,,,
 474,https://anapioficeandfire.com/api/characters/474,Harren Botley,Male,,Ironborn,"In 299 AC, at Moat Cailin",,
-475,https://anapioficeandfire.com/api/characters/475,Harren Hoare,Male,,Ironborn,"2 BC, at Harrenhal",https://anapioficeandfire.com/api/characters/460,
+475,https://anapioficeandfire.com/api/characters/475,Harren Hoare,Male,,Ironborn,"2 BC, at Harrenhal",460,
 476,https://anapioficeandfire.com/api/characters/476,Harrion Karstark,Male,At Karhold,Northmen,,,
 477,https://anapioficeandfire.com/api/characters/477,Harrold Hardyng,Male,In 281 AC or 282 AC,Valemen,,,
 478,https://anapioficeandfire.com/api/characters/478,Harrold Osgrey,Male,,,At the Redgrass Field,,
@@ -473,7 +473,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 481,https://anapioficeandfire.com/api/characters/481,Harwin Strong,Male,In 90 AC or before,,"In 120 AC, at Harrenhal",,
 482,https://anapioficeandfire.com/api/characters/482,Harwood Fell,Male,,,"In 300 AC, at Wolfswood",,
 483,https://anapioficeandfire.com/api/characters/483,Harwood Stout,Male,,Northmen,,,
-484,https://anapioficeandfire.com/api/characters/484,Harwyn Hoare,Male,,,,https://anapioficeandfire.com/api/characters/833,
+484,https://anapioficeandfire.com/api/characters/484,Harwyn Hoare,Male,,,,833,
 485,https://anapioficeandfire.com/api/characters/485,Harwyn Plumm,Male,,,,,
 486,https://anapioficeandfire.com/api/characters/486,Harys Haigh,Male,In or between 254 AC and 282 AC,,,,
 487,https://anapioficeandfire.com/api/characters/487,Harys Swyft,Male,,,,,
@@ -515,8 +515,8 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 523,https://anapioficeandfire.com/api/characters/523,Jacelyn Bywater,Male,,,"In 299 AC, at King's Landing",,
 524,https://anapioficeandfire.com/api/characters/524,Jack Bulwer,Male,,,"In 300 AC, at Beyond the Wall",,
 525,https://anapioficeandfire.com/api/characters/525,Jack Musgood,Male,,Stormlands,,,
-526,https://anapioficeandfire.com/api/characters/526,Jaehaerys I,Male,"34 AC, at King's Landing",,"103 AC, at King's Landing",https://anapioficeandfire.com/api/characters/57,https://anapioficeandfire.com/api/characters/110
-527,https://anapioficeandfire.com/api/characters/527,Jaehaerys II,Male,"225 AC, at King's Landing",,"262 AC, at King's Landing",https://anapioficeandfire.com/api/characters/46,https://anapioficeandfire.com/api/characters/195
+526,https://anapioficeandfire.com/api/characters/526,Jaehaerys I,Male,"34 AC, at King's Landing",,"103 AC, at King's Landing",57,110
+527,https://anapioficeandfire.com/api/characters/527,Jaehaerys II,Male,"225 AC, at King's Landing",,"262 AC, at King's Landing",46,195
 528,https://anapioficeandfire.com/api/characters/528,Jaime Frey,Male,In 299 AC or 300 AC,,,,
 529,https://anapioficeandfire.com/api/characters/529,Jaime Lannister,Male,"In 266 AC, at Casterly Rock",Westerlands,,,
 530,https://anapioficeandfire.com/api/characters/530,Jammos Frey,Male,In 266 AC or 267 AC,,,,
@@ -554,7 +554,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 562,https://anapioficeandfire.com/api/characters/562,Joanna Lannister,Female,"In or between 245 AC and 250 AC, at Casterly Rock",Westerman,In 273 AC,,
 563,https://anapioficeandfire.com/api/characters/563,Joanna Swyft,Female,,,,,
 564,https://anapioficeandfire.com/api/characters/564,Jocelyn Swyft,Female,,,,,
-565,https://anapioficeandfire.com/api/characters/565,Joffrey Baratheon,Male,"286 AC, at King's Landing",,"300 AC, at Red Keep, King's Landing",https://anapioficeandfire.com/api/characters/901,https://anapioficeandfire.com/api/characters/238
+565,https://anapioficeandfire.com/api/characters/565,Joffrey Baratheon,Male,"286 AC, at King's Landing",,"300 AC, at Red Keep, King's Landing",901,238
 566,https://anapioficeandfire.com/api/characters/566,Joffrey Caswell,Male,In 190 AC or 191 AC,,,,
 567,https://anapioficeandfire.com/api/characters/567,Joffrey Lonmouth,Male,In 99 AC or before,,"In 114 AC, at King's Landing",,
 568,https://anapioficeandfire.com/api/characters/568,Johanna Lannister,Female,At the Crag,,,,
@@ -683,8 +683,8 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 691,https://anapioficeandfire.com/api/characters/691,Mace Tyrell,Male,In After 256 AC,,,,
 692,https://anapioficeandfire.com/api/characters/692,Maege Mormont,Female,In or between 239 AC and 257 AC,Northmen,,,
 693,https://anapioficeandfire.com/api/characters/693,Maegelle Frey,Female,In or between 249 AC and 266 AC,,,,
-694,https://anapioficeandfire.com/api/characters/694,Maegor I,Male,12 AC,,"48 AC, at King's Landing",https://anapioficeandfire.com/api/characters/38,https://anapioficeandfire.com/api/characters/2071
-695,https://anapioficeandfire.com/api/characters/695,Maekar I,Male,"or between 174 AC and 178 AC, at King's Landing",,"233 AC, at Starpike",https://anapioficeandfire.com/api/characters/274,https://anapioficeandfire.com/api/characters/709
+694,https://anapioficeandfire.com/api/characters/694,Maegor I,Male,12 AC,,"48 AC, at King's Landing",38,2071
+695,https://anapioficeandfire.com/api/characters/695,Maekar I,Male,"or between 174 AC and 178 AC, at King's Landing",,"233 AC, at Starpike",274,709
 696,https://anapioficeandfire.com/api/characters/696,Maelor Targaryen,Male,"In 127 AC, at King's Landing",,"In 130 AC, at Bitterbridge",,
 697,https://anapioficeandfire.com/api/characters/697,Maelys I Blackfyre,Male,,Valyrian,"In 260 AC, at Stepstones",,
 698,https://anapioficeandfire.com/api/characters/698,Maldon Massey,Male,,First Men,,,
@@ -875,7 +875,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 883,https://anapioficeandfire.com/api/characters/883,Richard Morrigen,Male,,,,,
 884,https://anapioficeandfire.com/api/characters/884,Rickard Karstark,Male,At Karhold,Northmen,"In 299 AC, at Riverrun (executed)",,
 885,https://anapioficeandfire.com/api/characters/885,Rickard Ryswell,Male,,Northmen,,,
-886,https://anapioficeandfire.com/api/characters/886,Rickard Stark,Male,,Northmen,,https://anapioficeandfire.com/api/characters/584,
+886,https://anapioficeandfire.com/api/characters/886,Rickard Stark,Male,,Northmen,,584,
 887,https://anapioficeandfire.com/api/characters/887,Rickard Stark,Male,"In or between 230 AC and 249 AC, at Winterfell",Northmen,"In 282 AC, at King's Landing",,
 888,https://anapioficeandfire.com/api/characters/888,Rickard Thorne,Male,,,"In 130 AC, at Bitterbridge",,
 889,https://anapioficeandfire.com/api/characters/889,Rickard Tyrell,Male,,,,,
@@ -890,7 +890,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 898,https://anapioficeandfire.com/api/characters/898,Robert Flowers,Male,,,,,
 899,https://anapioficeandfire.com/api/characters/899,Robert Frey,Male,In 286 AC,,,,
 900,https://anapioficeandfire.com/api/characters/900,Robert Frey,Male,In 283 AC,,,,
-901,https://anapioficeandfire.com/api/characters/901,Robert I Baratheon,Male,"262 AC, at Storm's End",,"298 AC, at King's Landing",https://anapioficeandfire.com/api/characters/986,https://anapioficeandfire.com/api/characters/230
+901,https://anapioficeandfire.com/api/characters/901,Robert I Baratheon,Male,"262 AC, at Storm's End",,"298 AC, at King's Landing",986,230
 902,https://anapioficeandfire.com/api/characters/902,Robert Paege,Male,,,,,
 903,https://anapioficeandfire.com/api/characters/903,Robett Glover,Male,At Deepwood Motte,Northmen,,,
 904,https://anapioficeandfire.com/api/characters/904,Robin Greyjoy,Male,,Ironborn,At Pyke,,
@@ -1018,7 +1018,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 1026,https://anapioficeandfire.com/api/characters/1026,Tion Lannister,Male,In or between 211 AC and 219 AC,,"In 236 AC, at the Wendwater",,
 1027,https://anapioficeandfire.com/api/characters/1027,Titus Peake,Male,,,,,
 1028,https://anapioficeandfire.com/api/characters/1028,Tom Costayne,Male,,,,,
-1029,https://anapioficeandfire.com/api/characters/1029,Tommen Baratheon,Male,291 AC,,,https://anapioficeandfire.com/api/characters/901,https://anapioficeandfire.com/api/characters/238
+1029,https://anapioficeandfire.com/api/characters/1029,Tommen Baratheon,Male,291 AC,,,901,238
 1030,https://anapioficeandfire.com/api/characters/1030,Tommen Costayne,Male,,,,,
 1031,https://anapioficeandfire.com/api/characters/1031,Torren Liddle,Male,,Northern mountain clans,,,
 1032,https://anapioficeandfire.com/api/characters/1032,Torrence Teague,Male,,Rivermen,,,
@@ -1030,7 +1030,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 1038,https://anapioficeandfire.com/api/characters/1038,Tristan Ryger,Male,,,,,
 1039,https://anapioficeandfire.com/api/characters/1039,Tristifer Botley,Male,At Lordsport,Ironborn,,,
 1040,https://anapioficeandfire.com/api/characters/1040,Tristifer IV Mudd,Male,,,,,
-1041,https://anapioficeandfire.com/api/characters/1041,Tristifer V,Male,,,,https://anapioficeandfire.com/api/characters/1040,
+1041,https://anapioficeandfire.com/api/characters/1041,Tristifer V,Male,,,,1040,
 1042,https://anapioficeandfire.com/api/characters/1042,Triston Sunderland,Male,,,,,
 1043,https://anapioficeandfire.com/api/characters/1043,Trystane Martell,Male,In 287 AC,Dornish,,,
 1044,https://anapioficeandfire.com/api/characters/1044,Tya Lannister,Female,,,,,
@@ -1065,8 +1065,8 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 1073,https://anapioficeandfire.com/api/characters/1073,Victaria Tyrell,Female,,,,,
 1074,https://anapioficeandfire.com/api/characters/1074,Victarion Greyjoy,Male,"In 268 AC or before, at Pyke",Ironborn,,,
 1075,https://anapioficeandfire.com/api/characters/1075,Victor Tyrell,Male,,,,,
-1076,https://anapioficeandfire.com/api/characters/1076,Viserys I,Male,"77 AC, at King's Landing",,"129 AC, at King's Landing",https://anapioficeandfire.com/api/characters/157,https://anapioficeandfire.com/api/characters/109
-1077,https://anapioficeandfire.com/api/characters/1077,Viserys II,Male,"122 AC, at Dragonstone",,"172 AC, at King's Landing",https://anapioficeandfire.com/api/characters/269,https://anapioficeandfire.com/api/characters/874
+1076,https://anapioficeandfire.com/api/characters/1076,Viserys I,Male,"77 AC, at King's Landing",,"129 AC, at King's Landing",157,109
+1077,https://anapioficeandfire.com/api/characters/1077,Viserys II,Male,"122 AC, at Dragonstone",,"172 AC, at King's Landing",269,874
 1078,https://anapioficeandfire.com/api/characters/1078,Viserys Plumm,Male,In 176 AC or 177 AC,,,,
 1079,https://anapioficeandfire.com/api/characters/1079,Viserys Targaryen,Male,"In 276 AC, at King's Landing",Valyrian,"In 298 AC, at Vaes Dothrak",,
 1080,https://anapioficeandfire.com/api/characters/1080,Vortimer Crane,Male,,,,,
@@ -1866,7 +1866,7 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 1877,https://anapioficeandfire.com/api/characters/1877,Richard Farrow,Male,,,"In 299 AC, at the Battle of the Blackwater",,
 1878,https://anapioficeandfire.com/api/characters/1878,Rigney,Male,,,,,
 1879,https://anapioficeandfire.com/api/characters/1879,Rob,Male,,,,,
-1880,https://anapioficeandfire.com/api/characters/1880,Robb Stark,Male,"283 AC, at Riverrun",,"299 AC, at the Twins",https://anapioficeandfire.com/api/characters/339,https://anapioficeandfire.com/api/characters/232
+1880,https://anapioficeandfire.com/api/characters/1880,Robb Stark,Male,"283 AC, at Riverrun",,"299 AC, at the Twins",339,232
 1881,https://anapioficeandfire.com/api/characters/1881,Robin,Male,,,At Stepstones,,
 1882,https://anapioficeandfire.com/api/characters/1882,Robin Flint,Male,,,"In 299 AC, at the Twins",,
 1883,https://anapioficeandfire.com/api/characters/1883,Robin Potter,Male,,,,,
@@ -1949,8 +1949,8 @@ ID,APIURL,Name,Gender,Born,Culture,Died,Father,Mother
 1960,https://anapioficeandfire.com/api/characters/1960,Squint,Male,,,"In 299 AC, at Winterfell",,
 1961,https://anapioficeandfire.com/api/characters/1961,Squirrel,Female,At Beyond the Wall,Free Folk,"In 300 AC, at Winterfell",,
 1962,https://anapioficeandfire.com/api/characters/1962,Stalwart Shield,Male,,,"In 300 AC, at Meereen",,
-1963,https://anapioficeandfire.com/api/characters/1963,Stannis Baratheon,Male,264 AC,,,https://anapioficeandfire.com/api/characters/986,https://anapioficeandfire.com/api/characters/230
-1964,https://anapioficeandfire.com/api/characters/1964,Stannis Seaworth,Male,In 289 AC or 290 AC,,,https://anapioficeandfire.com/api/characters/1319,https://anapioficeandfire.com/api/characters/1676
+1963,https://anapioficeandfire.com/api/characters/1963,Stannis Baratheon,Male,264 AC,,,986,230
+1964,https://anapioficeandfire.com/api/characters/1964,Stannis Seaworth,Male,In 289 AC or 290 AC,,,1319,1676
 1965,https://anapioficeandfire.com/api/characters/1965,Steeelskin,Male,,Ghiscari,,,
 1966,https://anapioficeandfire.com/api/characters/1966,Steely Pate,Male,,,,,
 1967,https://anapioficeandfire.com/api/characters/1967,Steffon Seaworth,Male,In 293 AC,,,,
