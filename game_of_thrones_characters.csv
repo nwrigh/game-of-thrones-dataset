@@ -1,16 +1,6 @@
 
 APIURL,Name,Gender,Born,Culture,Died,Father,Mother
-https://anapioficeandfire.com/api/characters/1,,Female,,Braavosi,,,
 https://anapioficeandfire.com/api/characters/2,Walder,Male,,,,,
-https://anapioficeandfire.com/api/characters/3,,Male,,,,,
-https://anapioficeandfire.com/api/characters/4,,Female,,Braavosi,,,
-https://anapioficeandfire.com/api/characters/5,,Male,,,,,
-https://anapioficeandfire.com/api/characters/6,,Female,,Braavosi,,,
-https://anapioficeandfire.com/api/characters/7,,Female,,,,,
-https://anapioficeandfire.com/api/characters/8,,Male,,,,,
-https://anapioficeandfire.com/api/characters/9,,Female,,,,,
-https://anapioficeandfire.com/api/characters/10,,Female,,Braavosi,,,
-https://anapioficeandfire.com/api/characters/11,,Female,In 263 AC or 264 AC,Braavosi,,,
 https://anapioficeandfire.com/api/characters/12,Balon Greyjoy,Male,,,"299 AC, at Pyke",https://anapioficeandfire.com/api/characters/836,
 https://anapioficeandfire.com/api/characters/13,Chayle,Male,,,"In 299 AC, at Winterfell",,
 https://anapioficeandfire.com/api/characters/14,Gillam,Male,,,,,
