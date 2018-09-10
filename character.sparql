@@ -1,0 +1,12 @@
+SELECT ?Game_of_Thrones_character ?Game_of_Thrones_characterLabel ?sex_or_gender ?sex_or_genderLabel ?mother ?motherLabel ?father ?fatherLabel ?spouse ?spouseLabel ?partner ?partnerLabel ?family ?familyLabel ?sibling ?siblingLabel ?place_of_birth ?place_of_birthLabel WHERE {
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". }
+  ?Game_of_Thrones_character wdt:P31 wd:Q20086263.
+  OPTIONAL { ?Game_of_Thrones_character wdt:P21 ?sex_or_gender. }
+  OPTIONAL { ?Game_of_Thrones_character wdt:P25 ?mother. }
+  OPTIONAL { ?Game_of_Thrones_character wdt:P22 ?father. }
+  OPTIONAL { ?Game_of_Thrones_character wdt:P26 ?spouse. }
+  OPTIONAL { ?Game_of_Thrones_character wdt:P451 ?partner. }
+  OPTIONAL { ?Game_of_Thrones_character wdt:P53 ?family. }
+  OPTIONAL { ?Game_of_Thrones_character wdt:P3373 ?sibling. }
+  OPTIONAL { ?Game_of_Thrones_character wdt:P19 ?place_of_birth. }
+}
