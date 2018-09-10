@@ -30,5 +30,5 @@ MERGE (main)-[:HAS_ALLEGIANCE_WITH]->(partner)
 
 LOAD CSV WITH HEADERS FROM "https://raw.githubusercontent.com/nwrigh/game-of-thrones-dataset/master/game_of_thrones_characters.csv" AS line
 MATCH (main:Person { ID: line.Game_of_Thrones_character}) WHERE NOT line.killed_by IS NULL
-MERGE (killed_by:Person { ID: line.killed_by})ON CREATE SET partner.name = line.killed_byLabel
-MERGE (main)-[:KILLED_BY]->(killed_by)
+MERGE (killed:Person { ID: line.killed_by}) ON CREATE SET killed.name = line.killed_byLabel
+MERGE (main)-[:KILLED_BY]->(killed)
