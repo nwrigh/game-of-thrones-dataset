@@ -10,4 +10,6 @@ As part of <this> presentation for a meetup in Sofia on the 20th Sept I created 
 3. Use the cypher queries in the the two cypher files (family_houses.cypher & characters.cypher) in query interface.
 
 # How to extend the dataset
-I have included the sparql in this repo that I used via the query service of wikidata: [https://query.wikidata.org/]. Feel free to explore the data more and see what interesting graphs are produced
+I have included the sparql in this repo that I used via the query service of wikidata: [https://query.wikidata.org/]. Query away and then download the data to csv where you can then use the `load csv` cypher command to load your new dataset into your database
+
+Feel free to explore the data more and see what interesting graphs are produced
